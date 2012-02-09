@@ -2,10 +2,10 @@
 
 Simple fuzzy librairy using Mamdani's fuzzy inference method
 
-# Author #
+## Author ##
 
 Thibaut Patel
 
-# Copyright ? #
+## Copyright ? ##
 
 Copyleft !
